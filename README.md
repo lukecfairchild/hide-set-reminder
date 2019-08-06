@@ -1,4 +1,4 @@
-Click [here](https://github.com/lukecfairchild/exit-block-preventer/raw/master/main.user.js) to install with GreaseMonkey or TamperMonkey.
+Click [here](https://github.com/lukecfairchild/hide-set-reminder/raw/master/main.user.js) to install with GreaseMonkey or TamperMonkey.
 
 Firefox users get GreaseMonkey [here](https://addons.mozilla.org/en-Us/firefox/addon/greasemonkey/).
 
